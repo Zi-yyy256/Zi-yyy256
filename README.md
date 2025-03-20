@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zi-yyy256
-- 👀 I’m interested in Atomic and Molecular Physics
+- 👀 I’m interested in Atomic and Molecular Physics.
 - 📫 How to reach me: yangziyue@mail.ustc.edu.cn
 
 <!---
